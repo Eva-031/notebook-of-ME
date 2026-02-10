@@ -21,3 +21,14 @@ I’m passionate about **space technology, robotics, and embedded systems**, and
 - Professional English for engineering communication  
 
 ---
+
+## 🎯 Repository Goal
+
+This repository is a personal learning notebook focused on **Guidance, Navigation, and Control (GNC)**  
+for aerospace and space systems.
+
+The goal is to build strong fundamentals in:
+- Motion modeling & dynamics
+- State estimation and sensor fusion
+- Guidance logic and control design
+- Simulation-driven engineering thinking
