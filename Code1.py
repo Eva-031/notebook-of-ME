@@ -1,7 +1,7 @@
-## Observations
+*/## Observations
 - Low Kp results in slow response
 - Higher Kp reduces rise time but increases overshoot
-- Very high Kp may cause oscillation
+- Very high Kp may cause oscillation/*
 
 
 import numpy as np
