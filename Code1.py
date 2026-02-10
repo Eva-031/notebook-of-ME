@@ -44,8 +44,6 @@ plt.xlabel("Time [s]")
 plt.ylabel("Position")
 plt.savefig('plot.png') 
 
-/* The plot is saved as 'plot.png' in the current directory. */
-
  
 # Simulation parameters
 m = 1.0
