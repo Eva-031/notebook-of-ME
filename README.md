@@ -32,3 +32,11 @@ The goal is to build strong fundamentals in:
 - State estimation and sensor fusion
 - Guidance logic and control design
 - Simulation-driven engineering thinking
+
+## PID Gain Comparison (Simulation)
+
+The following result shows the effect of different **Kp values**
+on a 1D point-mass position control system.
+
+![PID Comparison](results/figures/kp_comparison.png)
+
