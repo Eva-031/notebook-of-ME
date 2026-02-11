@@ -40,3 +40,14 @@ on a 1D point-mass position control system.
 
 ![PID Comparison](results/figures/kp_comparison.png)
 
+## Control Objective
+- Track position reference r = 10 m
+- Minimize overshoot
+- Compare effect of Kp variation
+
+## System Model
+m ẍ = u
+
+
+## MATLAB Simulation
+See `/matlab` for equivalent implementation.
